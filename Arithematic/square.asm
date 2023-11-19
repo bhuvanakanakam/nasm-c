@@ -1,3 +1,5 @@
+; calculates the a^2-b^2 
+
 global sq_diff         ; 
 
 section .text          ; 
