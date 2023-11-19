@@ -1,12 +1,6 @@
 section .text
 global searchN
 
-; searchN function:
-; Parameters:
-;   rdi - pointer to the array
-;   rsi - number of elements in the array
-;   rdx - value to search for in the array
-
 searchN:
     xor rax, rax        ; Clear rax (will hold the result)
     xor rcx, rcx        ; Clear rcx (counter for loop)
