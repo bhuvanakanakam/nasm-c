@@ -1,9 +1,6 @@
 section .text
 global maximum
 
-; first parameter in rdi (pointer to the array)
-; second parameter in rsi (number of elements in the array)
-
 maximum:
     cmp rsi, 0          ; Check if there are no elements
     je finish           ; If so, jump to finish
