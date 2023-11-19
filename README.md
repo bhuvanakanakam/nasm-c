@@ -4,7 +4,7 @@ Welcome to my x86_64 Assembly Codes repository! This collection features various
 
 ## Code List
 
-1. **Arithmetic Operations**: Basic arithmetic operations, showcasing the use of registers and arithmetic instructions.
+1. **Arithmetic Operations**: Basic arithmetic operations, showcasing the use of registers and arithmetic instructions. (a^2-b^2) and (a^3-b^3)/(a-b)
 
 2. **Even And Odd Numbers Counter**: A program that counts the number of even and odd numbers in an array.
 
