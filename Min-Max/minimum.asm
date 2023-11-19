@@ -1,9 +1,6 @@
 section .text
 global minimum
 
-; first parameter in rdi (pointer to the array)
-; second parameter in rsi (number of elements in the array)
-
 minimum:
     cmp rsi, 0          ; Check if there are no elements
     je finish           ; If so, jump to finish
