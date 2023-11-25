@@ -4,19 +4,27 @@ Welcome to my x86_64 Assembly Codes repository! This collection features various
 
 ## Code List
 
-1. **Arithmetic Operations**: Basic arithmetic operations, showcasing the use of registers and arithmetic instructions. (a^2-b^2) and (a^3-b^3)/(a-b)
+1. **Arithmetic Operations**: Basic arithmetic operations, showcasing the use of registers and arithmetic instructions.
 
 2. **Even And Odd Numbers Counter**: A program that counts the number of even and odd numbers in an array.
 
 3. **Linear Search**: An implementation of linear search algorithm in assembly.
 
-4. **Min-Max Finder**: Find the minimum and maximum elements in an array.
+4. **Median Finder**: Find the median (middle value) in an array.
 
-5. **Mode Finder**: Determine the mode (most frequently occurring element) in an array.
+5. **Min-Max Finder**: Find the minimum and maximum elements in an array.
 
-6. **Matrix Addition (n x n)**: Addition of two square matrices of size n x n.
+6. **Mode Finder**: Determine the mode (most frequently occurring element) in an array.
 
-7. **Matrix Multiplication (n x n)**: Multiplication of two square matrices of size n x n.
+7. **Prime Number Checker**: Check whether a given number is prime.
+
+8. **GCD (Greatest Common Divisor) Calculator**: Calculate the greatest common divisor of two numbers.
+
+9. **LCM (Least Common Multiple) Calculator**: Calculate the least common multiple of two numbers.
+
+10. **Matrix Addition (n x n)**: Addition of two square matrices of size n x n.
+
+11. **Matrix Multiplication (n x n)**: Multiplication of two square matrices of size n x n.
 
 ## Background
 
